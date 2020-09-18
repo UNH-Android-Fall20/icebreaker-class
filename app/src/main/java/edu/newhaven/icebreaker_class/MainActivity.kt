@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Log.i(TAG, "onCreate fired")
+        Log.i(TAG, "Start posting to Firebase")
     }
 }
